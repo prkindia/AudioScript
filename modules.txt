@@ -1,0 +1,2 @@
+pydub==0.23.1
+google-cloud==0.34.0
