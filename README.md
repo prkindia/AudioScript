@@ -13,8 +13,8 @@ Auto Generate Subtitle File For Any Type Of Audio and Video. Using Python and Go
 > # Installation
 Use `git clone https://github.com/dmcrobin/AudioScript.git` and change directory to AudioScript.
 
-- Install Requirements<br>
-`pip install requirements.txt`
+- Install Required Libraries<br>
+`pip install modules.txt`
 - Run The Command<br>
 `./audioscript.py [audio/video]_file.[ext] [language]` <br>
 For example, `./audioscript.py hello.mp4 en-US`<br>
