@@ -19,7 +19,7 @@ Use `git clone https://github.com/dmcrobin/AudioScript.git` and change directory
 `./audioscript.py [audio/video]_file.[ext] [language]` <br>
 For example, `./audioscript.py hello.mp4 en-US`<br>
 List of languages, goto [Google's language support](https://cloud.google.com/speech-to-text/docs/languages)
-- Get Your Transcript
+- Get Your Transcript<br>
 Go to `transcripts` folder, .srt will be generated, depending on the length of your media file.
 
 ### This application uses a JSON file that gives access to upload small chunks of audio to your bucket for faster processing, to download your own secret.json file please check in later
