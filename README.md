@@ -1,4 +1,5 @@
 # AudioScript
+Get The Official App Available On PlayStore - [AudioScript](https://play.google.com/store/apps/details?id=com.prktech.audioscript)
 Auto Generate Subtitle File For Any Type Of Audio and Video. Using Python and Google Speech-to-Text API. This application mainly focuses on the lack of subtitles for media files, this will generate the .srt file for any language.
 > Supported Codecs
 - .mp3
